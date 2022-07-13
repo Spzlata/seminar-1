@@ -1,0 +1,15 @@
+/Users/zlata/seminar 1/Seminar2.4/bin/Debug/net6.0/Seminar2.4
+/Users/zlata/seminar 1/Seminar2.4/bin/Debug/net6.0/Seminar2.4.deps.json
+/Users/zlata/seminar 1/Seminar2.4/bin/Debug/net6.0/Seminar2.4.runtimeconfig.json
+/Users/zlata/seminar 1/Seminar2.4/bin/Debug/net6.0/Seminar2.4.dll
+/Users/zlata/seminar 1/Seminar2.4/bin/Debug/net6.0/Seminar2.4.pdb
+/Users/zlata/seminar 1/Seminar2.4/obj/Debug/net6.0/Seminar2.4.csproj.AssemblyReference.cache
+/Users/zlata/seminar 1/Seminar2.4/obj/Debug/net6.0/Seminar2.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zlata/seminar 1/Seminar2.4/obj/Debug/net6.0/Seminar2.4.AssemblyInfoInputs.cache
+/Users/zlata/seminar 1/Seminar2.4/obj/Debug/net6.0/Seminar2.4.AssemblyInfo.cs
+/Users/zlata/seminar 1/Seminar2.4/obj/Debug/net6.0/Seminar2.4.csproj.CoreCompileInputs.cache
+/Users/zlata/seminar 1/Seminar2.4/obj/Debug/net6.0/Seminar2.4.dll
+/Users/zlata/seminar 1/Seminar2.4/obj/Debug/net6.0/refint/Seminar2.4.dll
+/Users/zlata/seminar 1/Seminar2.4/obj/Debug/net6.0/Seminar2.4.pdb
+/Users/zlata/seminar 1/Seminar2.4/obj/Debug/net6.0/Seminar2.4.genruntimeconfig.cache
+/Users/zlata/seminar 1/Seminar2.4/obj/Debug/net6.0/ref/Seminar2.4.dll

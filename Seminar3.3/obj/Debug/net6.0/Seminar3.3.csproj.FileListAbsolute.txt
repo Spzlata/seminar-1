@@ -1,0 +1,15 @@
+/Users/zlata/Desktop/seminar 1/Seminar3.3/bin/Debug/net6.0/Seminar3.3
+/Users/zlata/Desktop/seminar 1/Seminar3.3/bin/Debug/net6.0/Seminar3.3.deps.json
+/Users/zlata/Desktop/seminar 1/Seminar3.3/bin/Debug/net6.0/Seminar3.3.runtimeconfig.json
+/Users/zlata/Desktop/seminar 1/Seminar3.3/bin/Debug/net6.0/Seminar3.3.dll
+/Users/zlata/Desktop/seminar 1/Seminar3.3/bin/Debug/net6.0/Seminar3.3.pdb
+/Users/zlata/Desktop/seminar 1/Seminar3.3/obj/Debug/net6.0/Seminar3.3.csproj.AssemblyReference.cache
+/Users/zlata/Desktop/seminar 1/Seminar3.3/obj/Debug/net6.0/Seminar3.3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zlata/Desktop/seminar 1/Seminar3.3/obj/Debug/net6.0/Seminar3.3.AssemblyInfoInputs.cache
+/Users/zlata/Desktop/seminar 1/Seminar3.3/obj/Debug/net6.0/Seminar3.3.AssemblyInfo.cs
+/Users/zlata/Desktop/seminar 1/Seminar3.3/obj/Debug/net6.0/Seminar3.3.csproj.CoreCompileInputs.cache
+/Users/zlata/Desktop/seminar 1/Seminar3.3/obj/Debug/net6.0/Seminar3.3.dll
+/Users/zlata/Desktop/seminar 1/Seminar3.3/obj/Debug/net6.0/refint/Seminar3.3.dll
+/Users/zlata/Desktop/seminar 1/Seminar3.3/obj/Debug/net6.0/Seminar3.3.pdb
+/Users/zlata/Desktop/seminar 1/Seminar3.3/obj/Debug/net6.0/Seminar3.3.genruntimeconfig.cache
+/Users/zlata/Desktop/seminar 1/Seminar3.3/obj/Debug/net6.0/ref/Seminar3.3.dll
